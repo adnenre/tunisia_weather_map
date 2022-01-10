@@ -8,7 +8,7 @@ click on a region to get weather details [live](https://adnenre.github.io/tunisi
 
 # screen shot
 
-![alt text](https://github.com/adnenre/tunisia_weather_map/tunisia_weather_map.gif)
+![alt text](tunisia_weather_map.gif)
 
 # Author
 
