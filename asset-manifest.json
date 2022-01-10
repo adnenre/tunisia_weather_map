@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.css": "/tunisia_weather_map/static/css/main.824f3fae.css",
+    "main.js": "/tunisia_weather_map/static/js/main.416e51c0.js",
+    "index.html": "/tunisia_weather_map/index.html",
+    "main.824f3fae.css.map": "/tunisia_weather_map/static/css/main.824f3fae.css.map",
+    "main.416e51c0.js.map": "/tunisia_weather_map/static/js/main.416e51c0.js.map"
+  },
+  "entrypoints": ["static/css/main.824f3fae.css", "static/js/main.416e51c0.js"]
+}
